@@ -2,7 +2,7 @@
 
 <p>Este projeto é uma tela interativa que usa o horário do pc para cumprimentar o usuário feito com HTML, CSS e Javascript</p>
 
-![Animação](https://user-images.githubusercontent.com/79489384/157985783-3da72c75-557c-4ff5-a1c6-a7b4ea813f39.gif)
+![Animação](https://user-images.githubusercontent.com/79489384/157986163-9da43861-238a-4f9c-8345-a122b597337d.gif)
 
 <hr>
 
