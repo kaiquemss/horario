@@ -1,6 +1,6 @@
 # README
 
-<p>Este projeto é uma tela interativa que usa o horário do pc para cumprimentar o usuário feito com HTML, CSS e Javascript</p>
+<p>Este projeto é uma tela interativa que mostra o horário atual do PC feito com HTML, CSS e Javascript</p>
 
 ![Animação](https://user-images.githubusercontent.com/79489384/157986163-9da43861-238a-4f9c-8345-a122b597337d.gif)
 
@@ -13,7 +13,7 @@
 
 <hr>
 
-<h3>Colar um repositório</h3>
+<h3>Clonar um repositório</h3>
 
 <ol>
 
